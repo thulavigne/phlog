@@ -39,3 +39,7 @@ gem 'jquery-rails'
 
 gem 'carrierwave'
 gem 'rmagick'
+gem 'fog'
+gem 'dotenv-rails', :groups => [:development, :test]
+gem 'carrierwave_direct'
+gem 'sidekiq'
